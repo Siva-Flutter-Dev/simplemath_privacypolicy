@@ -1,54 +1,54 @@
 Privacy Policy
-This privacy policy applies to the Simple Math app (hereby referred to as "Application") for mobile devices that was created by SivaCrafft (hereby referred to as "Service Provider") as a Free service. This service is intended for use “AS IS.”
+This Privacy Policy applies to the Simple Math app (hereby referred to as "Application") for mobile devices that was created by SivaCrafft (hereby referred to as "Service Provider") as a Free service. This service is provided “AS IS.”
 
 Information Collection and Use
-The Application may collect limited information when you download and use it. This information may include:
+The Application may collect limited information automatically when you use it. This information may include:
 
 Your device’s Internet Protocol address (e.g. IP address)
 
-Usage statistics such as pages visited, time spent in the app, and interaction patterns
+Usage statistics such as the pages visited, time and date of use, and features accessed
 
-The operating system you use on your mobile device
+The operating system used on your mobile device
 
-The Application does not collect precise information about your device's location or personally identifiable information (such as your name, email, or contact information).
+The Application does not collect any personally identifiable information or precise location data.
 
-We may use this information to improve the user experience and provide necessary support or promotional updates.
+We may use this information to analyze usage trends and improve the app's features and performance.
 
 Third-Party Access
-Only aggregated, anonymized data may be shared with external services to help improve the Application and our services. We may disclose user data:
+Only aggregated, anonymized data may be shared with third-party services to help improve the Application. We may share your data:
 
-When required by law (e.g., court orders or legal processes)
+If required by law (e.g., a court order or legal request)
 
-To protect the rights, safety, and property of users and others
+To protect our rights, or the rights, property, or safety of others
 
-With trusted service providers working on our behalf under confidentiality agreements
+With service providers working on our behalf under confidentiality agreements
 
-No data is sold or used for commercial purposes beyond the scope of app functionality and support.
+Your data is not sold or used for third-party marketing purposes.
 
 Opt-Out Rights
-You can stop all data collection by the Application by uninstalling it. You may use standard uninstall procedures available through your device or app marketplace.
+You can stop all collection of information by the Application by uninstalling it using the standard uninstall process available on your mobile device or via the app marketplace.
 
-Data Retention Policy
-User-provided data will be retained as long as you use the Application and for a reasonable period thereafter.
-To request deletion of your data, contact us at siva.flutter.dev@gmail.com and we will respond in a reasonable time.
+Data Retention
+The Service Provider retains user data only as long as necessary to provide the Application and for legitimate business purposes.
+To request deletion of data, contact us at siva.flutter.dev@gmail.com.
 
-Children's Privacy
-We do not knowingly collect data from or market to children under the age of 13.
-If you believe a child has provided personal data, please contact us immediately at siva.flutter.dev@gmail.com so we can take appropriate action.
+Children’s Privacy
+This Application is intended for users aged 13 and above.
+We do not knowingly collect data from anyone under the age of 13.
+If we become aware that we have inadvertently received personal information from a child under 13, we will take steps to delete such information.
 
 Security
-We are committed to protecting your information. We use physical, electronic, and procedural safeguards to help secure the data we collect and store.
+We value your trust and are committed to safeguarding your data. We use appropriate technical and organizational measures to protect your information from unauthorized access or disclosure.
 
 Changes to This Policy
-This privacy policy may be updated from time to time. Any changes will be posted on this page. You are advised to review this page periodically. Continued use of the app after any changes constitutes your acceptance of the updated policy.
+This policy may be updated from time to time. We will post any changes on this page. Continued use of the app constitutes your consent to the updated Privacy Policy.
 
 Effective Date: August 7, 2025
 
 Your Consent
-By using the Application, you consent to the processing of your information as described in this Privacy Policy.
+By using the Application, you consent to the collection and use of information as described in this Privacy Policy.
 
 Contact Us
-If you have any questions or concerns regarding this Privacy Policy or data handling, please contact us at:
+If you have any questions about this Privacy Policy, please contact us at:
 
 📧 siva.flutter.dev@gmail.com
-
