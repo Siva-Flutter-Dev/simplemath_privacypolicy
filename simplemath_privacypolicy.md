@@ -26,7 +26,7 @@ You can stop all collection of information by the Application by uninstalling it
 
 Data Retention
 The Service Provider retains user data only as long as necessary to provide the Application, comply with legal obligations, and for legitimate business purposes.
-To request deletion of your data, please contact us at siva.flutter.dev@gmail.com.
+To request deletion of your data, please contact us at sivacrafft@gmail.com.
 
 Children’s Privacy
 This Application is intended for users aged 13 and above.
@@ -47,4 +47,4 @@ By using the Application, you consent to the collection and use of information a
 Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
-📧 siva.flutter.dev@gmail.com
+📧 sivacrafft@gmail.com
