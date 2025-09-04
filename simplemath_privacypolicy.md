@@ -10,6 +10,8 @@ The Application may collect limited non-personal information automatically when 
 
 The Application does not actively collect any personally identifiable information or precise location data.
 
+The Application may use the device's vibration functionality to enhance user interaction and feedback. This feature does not collect, store, or transmit any personal data.
+
 This information is collected solely to analyze usage trends and improve app performance.
 
 Third-Party Access
